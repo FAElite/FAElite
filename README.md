@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FAElite
-- 👀 I’m interested in PC modding, emulators, pirating
-- 🌱 I’m currently learning AP Comp Sci A
-- 💞️ I’m looking to collaborate on school Comp Sci assignments
+- 👀 I’m interested in PC game modding, emulation, Java, Python
+- 🌱 I’m currently learning Computer Science III
+- 💞️ I’m looking to collaborate on college Comp Sci assignments
 - 📫 How to reach me: furqanahcom27@gmail.com
 
 <!---
