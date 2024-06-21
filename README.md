@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FAElite
-- 👀 I’m interested in PC game modding, emulation, Java, Python
+- 👀 I’m interested in PC game modding, emulation, Java, Web Dev
 - 🌱 I’m currently learning Computer Science III
 - 💞️ I’m looking to collaborate on college Comp Sci assignments
 - 📫 How to reach me: furqanahcom27@gmail.com
