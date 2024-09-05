@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FAElite
-- 👀 I’m interested in PC game modding, emulation, Java, Web Dev
-- 🌱 I’m currently learning Computer Science III
-- 💞️ I’m looking to collaborate on college Comp Sci assignments
+- 👀 I’m interested in Software Engineering, Emulation, Web Dev, Cybersecurity, Management
+- 🌱 I’m currently learning Java, C++, C, Python, MATLAB
+- 💞️ I’m looking to collaborate on any projects or research
 - 📫 How to reach me: furqanahcom27@gmail.com
 
 <!---
