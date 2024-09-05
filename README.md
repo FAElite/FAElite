@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FAElite
+- 👋 Hi, I’m Furqan Ahcom
 - 👀 I’m interested in Software Engineering, Emulation, Web Dev, Cybersecurity, Management
 - 🌱 I’m currently learning Java, C++, C, Python, MATLAB
 - 💞️ I’m looking to collaborate on any projects or research
