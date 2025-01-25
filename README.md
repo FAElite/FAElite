@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furqan Ahcom
-- 👀 I’m interested in Software Engineering, Emulation, Web Dev, Cybersecurity, Management
-- 🌱 I’m currently learning Java, C++, C, Python, MATLAB
+- 👀 I’m interested in Software Engineering, Emulation, Web Dev, Ethical Hacking, and AI
+- 🌱 I’m currently learning Java, C++, C, Python, MATLAB, Flutter
 - 💞️ I’m looking to collaborate on any projects or research
 - 📫 How to reach me: furqanahcom27@gmail.com
 
